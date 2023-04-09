@@ -1,0 +1,19 @@
+body {
+    margin: 0 8% 5% 8%;
+}
+
+#home {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.recipe {
+    background-color: #F8F0E3;
+    padding: 30px;
+}
+
+img {
+    height:auto;
+    width: 400px;
+}
+
